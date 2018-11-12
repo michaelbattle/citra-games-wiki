@@ -1,0 +1,9 @@
+title = "NSMB 2: Gold Edition"
+description = "Bowser has once again kidnapped Princess Peach, but this time, Mario has another objective. The Mushroom Kingdom is bursting with more gold coins than before. Each level is littered with gold as coins rain down from overhead pipes, trails of coins are left behind special gold enemies and gold pipes transport Mario into coin-filled caverns. It's up to players to collect as many coins as possible throughout their adventure."
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000137E00"
+region = "jpn"
+release_date = "2012-07-28"
